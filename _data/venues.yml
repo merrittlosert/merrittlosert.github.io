@@ -1,0 +1,27 @@
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"Vision":
+  color: "#009f36"
+
+"PhysRev":
+  url: https://journals.aps.org/
+
+"PhysRevLett":
+  url: https://journals.aps.org/prl/
+
+"PRB":
+  url: https://journals.aps.org/prb/
+
+"PRXQuantum":
+  url: https://journals.aps.org/prxquantum/
+
+"NatCommun":
+  url: https://www.nature.com/ncomms/
+
+"AdvSci":
+  url: https://onlinelibrary.wiley.com/journal/21983844
+
+"arXiv":
+  color: "#009f36"

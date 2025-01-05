@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Merritt Losert",
+    "job": "NRC Postdoc, NIST",
+    "image": "",
+    "email": "merritt.losert@gmail.com",
+    "interests": "quantum computing, condended matter physics, semiconductor qubits, machine learning"
+  },
+  "education": [
+    {
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, WI",
+      "area": "physics",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2024",
+      "url":"https://www.physics.wisc.edu",
+      "advisor": "Mark Friesen and Susan Coppersmith",
+      "thesis": "Alloy Disorder, Valley Splitting, and Shuttling for Spin Qubits in Silicon/Silicon-Germanium Heterostructures",
+      "thesisUrl": "https://www.proquest.com/openview/9cd0ca0673aff8261d5d81fef9a46338/1",
+      "thesisPdf": "thesis.pdf"
+    },
+    {
+      "institution": "Dartmouth College",
+      "location": "Hanover, NH",
+      "area": "majors: physics, computer science. minor: German studies",
+      "studyType": "BA",
+      "startDate": "2013",
+      "endDate": "2017",
+      "url": "https://home.dartmouth.edu"
+    }
+  ],
+  "selected publications": [
+    {
+      "name": "Strategies for Enhancing Spin-Shuttling Fidelities in Si/SiGe Quantum Wells with Random-Alloy Disorder",
+      "publisher": "PRX Quantum",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1103/PRXQuantum.5.040322",
+      "summary": "We show that valley excitation poses a challenge for conveyor mode electron shuttling in silicon, and we propose several mechanisms to avoid it."
+    },
+    {
+      "name": "Practical strategies for enhancing the valley splitting in Si/SiGe quantum wells",
+      "publisher": "Physical Review B",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1103/PhysRevB.108.125405",
+      "summary": "We analyze various strategies proposed to boost the valley splitting in Si quantum dots."
+    },
+    {
+      "name": "Atomic fluctuations lifting the energy degeneracy in Si/SiGe quantum dots",
+      "publisher": "Nature Communications",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1038/s41467-022-35458-0",
+      "summary": "We demonstrate that alloy disorder leads to large fluctuations in the valley splitting in silicon quantum dots, and we propose schemes to increase the valley splitting using this effect."
+    },
+    {
+      "name": "SiGe quantum wells with oscillating Ge concentrations for quantum dot qubits",
+      "publisher": "Nature Communications",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1038/s41467-022-35510-z",
+      "summary": "We propose a mechanism to boost the valley splitting in Si quantum dots using an oscillating concentration of germanium in the quantum well."
+    }
+  ]
+}
