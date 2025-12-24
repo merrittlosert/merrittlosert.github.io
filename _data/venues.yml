@@ -23,5 +23,8 @@
 "AdvSci":
   url: https://onlinelibrary.wiley.com/journal/21983844
 
+"NanoLett":
+  url: https://pubs.acs.org/journal/nalefd
+
 "arXiv":
   color: "#009f36"
