@@ -32,6 +32,20 @@
   ],
   "selected publications": [
     {
+      "name": "Automated electrostatic characterization of quantum dot devices in single- and bilayer heterostructures",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2601.00067",
+      "summary": "We develop an automated protocol to extract capacitive models for planar and bilayer devices."
+    },
+    {
+      "name": "Omnidirectional Shuttling to Avoid Valley Excitations in Si/SiGe Quantum Wells",
+      "publisher": "PRX Quantum",
+      "releaseDate": "2026",
+      "url": "https://link.aps.org/doi/10.1103/615j-xjyh",
+      "summary": "We propose a 2D conveyor-mode shuttling architecture to avoid valley excitation."
+    },
+    {
       "name": "Strategies for Enhancing Spin-Shuttling Fidelities in Si/SiGe Quantum Wells with Random-Alloy Disorder",
       "publisher": "PRX Quantum",
       "releaseDate": "2024",
