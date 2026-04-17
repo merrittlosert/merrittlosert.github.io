@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a physicist studying quantum computing in semiconductor qubits. I want to build a scalable quantum computer, using the tools of physics and machine learning. I am currently an NRC postdoc at NIST and UMD, advised by Justyna Zwolak. I got my PhD in 2024 from the University of Wisconsin-Madison, advised by Mark Friesen and Susan Coppersmith.
+I am a physicist studying automation and applied ML for semiconductor spin qubits. I am currently an NRC postdoc at NIST and UMD, advised by Justyna Zwolak. I got my PhD in 2024 from the University of Wisconsin-Madison, advised by Mark Friesen and Susan Coppersmith, where I worked on theories of alloy disorder, valley splitting, and spin shuttling in silicon spin qubits.
 
 Check out my [cv](/cv/), [publications](/publications/), and [google scholar](https://scholar.google.com/citations?user=ZzDk4GoAAAAJ).
 
